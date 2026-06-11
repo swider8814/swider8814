@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @swider8814
 - 👀 I’m interested in new technologies, riding by bike and hiking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some creative projects
 - 📫 You can reach me by daniel [at] 8814.pl or twitter @swider8814
 
 <!---
 swider8814/swider8814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Konarski&repo=QuizApp)](https://github.com/anuraghazra/github-readme-stats)
